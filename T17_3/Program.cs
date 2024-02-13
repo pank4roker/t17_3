@@ -15,6 +15,7 @@ namespace T17_3
             double k = Convert.ToDouble(ReadLine());
             Write("Enter base rate in tons: ");
             double h = Convert.ToDouble(ReadLine());
+            double summ=0;
             List<Staff> staff = new List<Staff>();
             bool flag = true;
             while (flag)
@@ -35,7 +36,14 @@ namespace T17_3
                         manager.Income(k, h);
                         break;
                     case "s":
-                        foreach(var elem  in staff) { Clear(); elem.ShowInfo(k, h); WriteLine(); }
+                        foreach(var elem  in staff) 
+                        {
+                            Clear();
+                            elem.ShowInfo(k, h); 
+                            summ += elem.Income(k,h);
+                            Write($"summ = {summ}");
+                            WriteLine();
+                        }
                         break;
                     default:
                         WriteLine("You entered wrong letter!");
