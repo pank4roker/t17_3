@@ -49,6 +49,7 @@ namespace T17_3
             string surname = ReadLine();
             Write("Enter the name: ");
             string name = ReadLine();
+            Write("Enter the date of birth: ");
             DateTime dateTime = DateTime.Parse(ReadLine());
             Write("Enter the minimal salary: ");
             double p = Convert.ToDouble(ReadLine());

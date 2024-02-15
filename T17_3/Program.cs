@@ -38,12 +38,12 @@ namespace T17_3
                     case "s":
                         foreach(var elem  in staff) 
                         {
-                            Clear();
+                            WriteLine();
                             elem.ShowInfo(k, h); 
                             summ += elem.Income(k,h);
-                            Write($"summ = {summ}");
                             WriteLine();
                         }
+                        WriteLine($"summ = {summ}");
                         break;
                     default:
                         WriteLine("You entered wrong letter!");

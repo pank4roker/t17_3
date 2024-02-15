@@ -1,0 +1,8 @@
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\bin\Debug\T17_3.exe.config
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\bin\Debug\T17_3.exe
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\bin\Debug\T17_3.pdb
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\obj\Debug\T17_3.csproj.AssemblyReference.cache
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\obj\Debug\T17_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\obj\Debug\T17_3.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\obj\Debug\T17_3.exe
+C:\Users\Kirill\Downloads\t17_3-main\t17_3-main\T17_3\obj\Debug\T17_3.pdb
